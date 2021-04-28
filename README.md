@@ -29,8 +29,15 @@
 <p align="justify"><I>la quantité de monnaie minée est directement proportionnelle à l'activité économique réalisée sur sur la Schain. Ainsi, cette quantité n'est pas limitée artificiellement. Le ESSE n'est pas une planche à billets électronique  comme les cryptomonnaies à preuve de travail ou d'enjeu. Son cours ne dépend que de la réelle activité économique exercée sur sa blockchain active. Son assise physique par la puissance de calcul du Snet et économique par l'audience de la Schain peut la qualifier de monnaie stable.</I></p>
 
 <p align="justify">
-    <I>ESSEE crée le concept de <B>concession de licence de minage</B>. Pour miner, il faut être titulaire d'une licence de concession. Pour ouvrir droit à la rémunération, il sera nécessaire de relier cette licence au Snet. Cette liaison s'opère soit par location de ressources physiques déjà présentes sur le Snet, soit par ajout de ses propres ressources physiques au Snet. Une licence de minage couvre l'utilisation d'un chip de minage. Le nombre de licences est limité. Il ne peut augmenter que si il est nécessaire de renforcer la puissance de calcul de la Schain. Les mineurs déjà en activité disposent d'un droit de souscription aux nouvelles licences crées. Ils peuvent utiliser ou vendre ce droit tout comme ils peuvent vendre ou louer leur licence de minage.</I>
-</p>
+    <I>ESSEE crée le concept de <B>concession de licence de minage</B>. Pour miner, il faut être titulaire d'une licence de concession. Pour ouvrir droit à la rémunération, il sera nécessaire de relier cette licence au Snet. Cette liaison s'opère soit par location de ressources physiques déjà présentes sur le Snet, soit par ajout de ses propres ressources physiques au Snet. Une licence de minage couvre l'utilisation d'un chip de minage. Le nombre de licences est limité. Il ne peut augmenter que si il est nécessaire de renforcer la puissance de calcul de la Schain. Les mineurs déjà en activité disposent d'un droit de souscription aux nouvelles licences crées. Ils peuvent utiliser ou vendre ce droit tout comme ils peuvent vendre ou louer leur licence de minage.</I></p>
+
+<p align="justify">
+   <I> Le minage de cryptomonnaie est une activité hautement rentable à court, moyen et long terme. L'infrastructure de production est opérationnelle 24h/24, 7ours/7, elle ne prend pas de congés payés et n'oblige à aucune cotisation sociale. L'infrastructure de gestion n'est plus nécessaire. Ainsi, il n'y pas besoin de rémunérer un état-major et une administration aux effectifs pléthoriques et train de vie dispendieux pendant que le plus souvent les résultats sont en raison inverse des frais engagés. L'infrastructure commerciale et marketing est tout aussi inutile car le mineur n'a pas de clients. L'investisseur n'a pas besoin d'attendre une quelconque publication de résultats pour encaisser ses revenus, il peut le faire à tout instant depuis son poste de travail, tablette ou smartphone. Le minage devient même un élément de régulation de la trésorerie des entreprises qui permet d'éviter le recours à l'emprunt.</I></p>
+
+
+
+
+
 
 
 
